@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Atualmente trabalho como Auxiliar de Suporte Tecnico.
 - 👨🏽‍🎓 Cursando 3º semestre em Análise e Desenvolvimento de Sistemas.
-- 💻 Com o objetivo de entrar de vez na area da Programação.
+- 💻 Com o objetivo de entrar de vez no mundo da Programação.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
