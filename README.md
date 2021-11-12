@@ -19,7 +19,7 @@
  
     
     
-  ![Snake animation](https://github.com/JaDultra/JaDultra/blob/output/github-contribution-grid-snake.svg)
+
     
 </div>
 
