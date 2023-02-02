@@ -1,7 +1,7 @@
 ## Olá! Sou o Jackson Dultra
 
 - 👨🏽‍💻 Atualmente trabalho como Auxiliar de Suporte Tecnico.
-- 👨🏽‍🎓 Cursando 3º semestre em Análise e Desenvolvimento de Sistemas.
+- 👨🏽‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💻 Com o objetivo de entrar de vez no mundo da Programação.
 
 <div align="center">
@@ -18,8 +18,6 @@
   <a href = "mailto:jacksondultra@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
     
-  ![Snake animation](https://github.com/JaDultra/JaDultra/blob/output/github-contribution-grid-snake.svg)
-
     
 </div>
 
