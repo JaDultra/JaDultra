@@ -1,8 +1,8 @@
 ## Olá! Sou o Jackson Dultra
 
-- 👨🏽‍💻 Atualmente trabalho como Auxiliar de Suporte Tecnico.
+- 👨🏽‍💻 Atualmente trabalho como Suporte Tecnico Remoto.
 - 👨🏽‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 💻 Com o objetivo de entrar de vez no mundo da Programação.
+- 💻 Aspirante a programador front-end.
 
 <div align="center">
   <a href="#">
@@ -15,7 +15,7 @@
   <div> 
   <a href="https://instagram.com/Ja_Dultra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jackson-dultra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jacksondultra@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jacksondultra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
     
     
