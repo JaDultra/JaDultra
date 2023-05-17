@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Atualmente trabalho como Suporte Tecnico Remoto.
 - 👨🏽‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 💻 Aspirante a programador front-end.
+- 💻 Aspirante a desenvolvedor front-end.
 
 <div align="center">
   <a href="#">
