@@ -1,6 +1,5 @@
 ## Olá! Sou o Jackson Dultra
 
-- 👨🏽‍💻 Atualmente trabalho como Suporte Tecnico Remoto.
 - 👨🏽‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💻 Aspirante a desenvolvedor front-end.
 
