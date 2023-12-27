@@ -1,5 +1,6 @@
 ## Olá! Sou o Jackson Dultra
 
+- 👨🏽‍🎓 Cursando MBA em Engenharia de Software na USP.
 - 👨🏽‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 💻 Aspirante a desenvolvedor front-end.
 
